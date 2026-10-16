@@ -23,4 +23,4 @@ Next.js · SQL, PostgreSQL · Docker · RabbitMQ · n8n · OpenAI APIs · Git, L
 
 ### Contact
 Open to working student roles in Munich.
-chaaben.fourat@gmail.com · [LinkedIn](https://www.linkedin.com/in/fourat-chaaben/)
+fourat.chaaben@hm.edu · [LinkedIn](https://www.linkedin.com/in/fourat-chaaben/)
